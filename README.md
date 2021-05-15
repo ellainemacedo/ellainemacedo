@@ -1,16 +1,13 @@
-### Hi there 👋 I'm Elaine! 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/68285556/118376698-faf94600-b59f-11eb-9af5-ca8c089c0f33.jpg" width="1000px"/>
+</div>
 
-<!--
-**ellainemacedo/ellainemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1>So good to see you here! </h1>
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/elainemacedo-dev/)
+</div>
 
-Here are some ideas to get you started:
+<p>Welcome to my GitHub repository! I'm Elaine! </p>
+<p>I"m a student of Systems Analysis and Development at the Faculty Impacta of technology and currently studying HMTL, CSS and JavaScript.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
