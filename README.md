@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/68285556/118376698-faf94600-b59f-11eb-9af5-ca8c089c0f33.jpg" width="1000px"/>
 </div>
@@ -9,5 +11,10 @@
 </div>
 
 <p>Welcome to my GitHub repository! I'm Elaine! </p>
-<p>I"m a student of Systems Analysis and Development at the Faculty Impacta of technology and currently studying HMTL, CSS and JavaScript.</p>
-
+<p>I"m a student of Systems Analysis and Development at the Faculty Impacta of Technology - FIT</p>
+<p>I am currently studying</p>
+<ul>
+  <li>HTML5
+  <li>CSS3
+  <li>JavaScript
+</ul>
