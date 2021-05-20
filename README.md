@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/68285556/118882123-352d5500-b8ca-11eb-97cf-64569c915d13.jpg"/>
+<img src="https://user-images.githubusercontent.com/68285556/118996874-9acb2100-b95e-11eb-8db7-1132f5c83bba.jpg"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <p>Welcome to my GitHub repository! I'm Elaine! </p>
 <p>I"m a student of Systems Analysis and Development at the Faculty Impacta of Technology - FIT</p>
-<p>I am currently studying</p>
+<p>I'm currently studying:</p>
 <ul>
   <li>HTML5
   <li>CSS3
