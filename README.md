@@ -16,5 +16,6 @@
 <ul>
   <li>HTML5
   <li>CSS3
-  <li>JavaScript
+  <li>Angular 2+
+  <li>Typescript
 </ul>
